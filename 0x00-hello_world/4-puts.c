@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
-*The compiler starts compilation from the main keyword
-*This function prints a string to the use
-*Return "0"
+*main - entry point 
+*description: This function prints a string to the use
+*Return: always 0 (success)
 */
 int main(void)
 {
