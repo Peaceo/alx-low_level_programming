@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-*main - entry point 
+*main - entry point
 *description: This function prints a string to the use
 *Return: always 0 (success)
 */
